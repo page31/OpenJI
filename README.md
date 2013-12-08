@@ -1,4 +1,5 @@
 OpenSI
 ======
 
-open source script interpreter
+Open source JavaScript compiler/interpreter.
+ 
